@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/ezgif.com-optimize.gif" alt="Azeem Afridi - Full Stack Web Developer" no-controls width="100%">
+  <img src="./assets/banner.gif" alt="Azeem Afridi - Full Stack Web Developer" no-controls width="100%">
 </div>
 
 
