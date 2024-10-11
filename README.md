@@ -4,8 +4,8 @@
 
 
 <div align="center">
-  <h1>
-    <img src="./assets/logo.png" alt="Azeem Afridi" width="50">
+  <h1 style="display: flex; align-items: center; justify-content: center;">
+    <img src="./assets/logo.jpg" alt="Azeem Afridi" width="50" height="50" style="border-radius: 50%; margin-right: 10px;">
     Azeem Afridi
   </h1>
   <h3>Full Stack Web Developer | API Integration Specialist</h3>
