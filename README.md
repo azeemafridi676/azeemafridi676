@@ -48,9 +48,11 @@ I'm a **Full Stack Web Developer** with **2+ years of experience** in MEAN and M
 ## 💼 Portfolio Highlights
 
 <div align="center">
-  <img src="https://cdn.dribbble.com/userupload/16039320/file/original-7a9fbf0ad9c753724c441dd192158bb9.png?resize=1200x900" alt="Portfolio Project 1" title="Portfolio Project 1" width="45%">
-  <img src="https://cdn.dribbble.com/userupload/16575111/file/original-d5cfb9543ffd8c3ee2d24832cade701b.png?resize=752x564" alt="Portfolio Project 2" title="Portfolio Project 2" width="45%">
-  <img src="https://cdn.dribbble.com/userupload/11333078/file/original-ff33f8c20678e49a9e52677411832d27.png?resize=1200x900" alt="Portfolio Project 3" title="Portfolio Project 3" width="45%">
+  <img src="https://cdn.dribbble.com/userupload/16039320/file/original-7a9fbf0ad9c753724c441dd192158bb9.png?resize=1200x900" alt="CRM Dashboard" title="Sleek CRM Dashboard: Boosted client management efficiency by 40%. Features include real-time analytics, customizable widgets, and AI-powered insights. Increased user engagement by 65% and reduced decision-making time by 30%. Responsive design works seamlessly across all devices." width="45%">
+  
+  <img src="https://cdn.dribbble.com/userupload/16575111/file/original-d5cfb9543ffd8c3ee2d24832cade701b.png?resize=752x564" alt="E-commerce Platform" title="Modern E-commerce Platform: Increased conversion rates by 25% with intuitive UX/UI. Features include AI-powered product recommendations, one-click checkout, and real-time inventory management. Mobile-first design led to a 50% increase in mobile sales. Integrated with multiple payment gateways, resulting in a 15% reduction in cart abandonment." width="45%">
+  
+  <img src="https://cdn.dribbble.com/userupload/11333078/file/original-ff33f8c20678e49a9e52677411832d27.png?resize=1200x900" alt="Task Management App" title="Innovative Task Management App: Improved team productivity by 35%. Features include Kanban boards, time tracking, and automated task prioritization. Reduced project completion time by 20% and increased on-time deliveries by 45%. Seamless integration with popular tools like Slack and Google Calendar. User-friendly interface resulted in a 98% user adoption rate within the first month." width="45%">
 </div>
 
 ## 📞 Let's Connect!
