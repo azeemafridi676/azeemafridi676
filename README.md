@@ -55,7 +55,7 @@ I'm a **Full Stack Web Developer** with **2+ years of experience** in MEAN and M
 ## 📞 Let's Connect!
 
 <div align="center">
-  <a href="your_fiverr_link"><img src="path_to_fiverr_icon" alt="Hire me on Fiverr" width="40" height="40"></a>
+  <a href="your_fiverr_link"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fiverr/fiverr-original.svg" alt="Hire me on Fiverr" width="40" height="40"></a>
   <!-- Add more social icons... -->
 </div>
 
