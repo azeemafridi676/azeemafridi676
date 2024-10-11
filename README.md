@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/banner.gif" alt="Azeem Afridi - Full Stack Web Developer" no-controls width="100%">
+  <img src="./assets/ezgif.com-optimize.gif" alt="Azeem Afridi - Full Stack Web Developer" no-controls width="100%">
 </div>
 
 
@@ -55,8 +55,9 @@ I'm a **Full Stack Web Developer** with **2+ years of experience** in MEAN and M
 ## 📞 Let's Connect!
 
 <div align="center">
-  <a href="your_fiverr_link"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fiverr/fiverr-original.svg" alt="Hire me on Fiverr" width="40" height="40"></a>
-  <!-- Add more social icons... -->
+  <a href="your_fiverr_link" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/fiverr-1.svg" alt="Hire me on Fiverr" width="40" height="40" style="margin-right: 10px;"></a>
+  <a href="your_instagram_link" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" alt="Follow me on Instagram" width="40" height="40" style="margin-right: 10px;"></a>
+  <a href="your_whatsapp_link" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" alt="Contact me on WhatsApp" width="40" height="40" style="margin-right: 10px;"></a>
 </div>
 
 <div align="center">
