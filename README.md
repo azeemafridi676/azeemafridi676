@@ -1,5 +1,8 @@
 <div align="center">
-  <img src="./assets/bannerPic.png" alt="Your Name - Full Stack Web Developer" width="100%">
+  <video width="100%" autoplay loop muted>
+    <source src="https://github.com/user-attachments/assets/ef3c382d-3f8a-4e1a-ac71-6f41a89c0a62" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
   <h1>Azeem Afridi</h1>
   <h3>Full Stack Web Developer | API Integration Specialist</h3>
   <p>"Transforming your ideas into exceptional web solutions"</p>
@@ -41,10 +44,9 @@ I'm a **Full Stack Web Developer** with **2+ years of experience** in MEAN and M
 ## 💼 Portfolio Highlights
 
 <div align="center">
-  <!-- Add your project showcases here -->
-  
-  <img src="https://cdn.dribbble.com/userupload/16039320/file/original-7a9fbf0ad9c753724c441dd192158bb9.png?resize=1200x900" alt="Project Name" width="45%">
-  <video src="https://cdn.dribbble.com/userupload/13222188/file/original-d3a2ecca93e626ed885a79f347e04653.mp4" alt="Project Name" width="45%" controls></video>
+  <img src="https://cdn.dribbble.com/userupload/16039320/file/original-7a9fbf0ad9c753724c441dd192158bb9.png?resize=1200x900" width="45%">
+  <img src="https://cdn.dribbble.com/userupload/16575111/file/original-d5cfb9543ffd8c3ee2d24832cade701b.png?resize=752x564" width="45%">
+  <img src="https://cdn.dribbble.com/userupload/11333078/file/original-ff33f8c20678e49a9e52677411832d27.png?resize=1200x900" width="45%">
 </div>
 
 <!-- Add more sections as outlined in your requirements -->
