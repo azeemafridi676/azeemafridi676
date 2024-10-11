@@ -4,7 +4,10 @@
 
 
 <div align="center">
-  <h1>Azeem Afridi</h1>
+  <h1>
+    <img src="./assets/logo.png" alt="Azeem Afridi" width="50">
+    Azeem Afridi
+  </h1>
   <h3>Full Stack Web Developer | API Integration Specialist</h3>
   <p>"Transforming your ideas into exceptional web solutions"</p>
 </div>
