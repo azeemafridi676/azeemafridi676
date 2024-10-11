@@ -42,9 +42,9 @@ I'm a **Full Stack Web Developer** with **2+ years of experience** in MEAN and M
 
 <div align="center">
   <!-- Add your project showcases here -->
-  <video src="https://cdn.dribbble.com/userupload/16470649/file/original-eef34b9456b5d5b75889f3ef813e7cd4.mp4" alt="Project Name" width="45%">
+  
   <img src="https://cdn.dribbble.com/userupload/16039320/file/original-7a9fbf0ad9c753724c441dd192158bb9.png?resize=1200x900" alt="Project Name" width="45%">
-  <video src="https://cdn.dribbble.com/userupload/13222188/file/original-d3a2ecca93e626ed885a79f347e04653.mp4" alt="Project Name" width="45%">
+  
 </div>
 
 <!-- Add more sections as outlined in your requirements -->
