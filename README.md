@@ -1,5 +1,5 @@
+https://github.com/user-attachments/assets/ef3c382d-3f8a-4e1a-ac71-6f41a89c0a62
 <div align="center">
-  https://github.com/user-attachments/assets/ef3c382d-3f8a-4e1a-ac71-6f41a89c0a62
   <h1>Azeem Afridi</h1>
   <h3>Full Stack Web Developer | API Integration Specialist</h3>
   <p>"Transforming your ideas into exceptional web solutions"</p>
