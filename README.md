@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://pin.it/6A9SMhw0c" alt="Your Name - Full Stack Web Developer" width="100%">
+  <img src="./assets/bannerPic.png" alt="Your Name - Full Stack Web Developer" width="100%">
   <h1>Azeem Afridi</h1>
   <h3>Full Stack Web Developer | API Integration Specialist</h3>
   <p>"Transforming your ideas into exceptional web solutions"</p>
