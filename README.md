@@ -58,10 +58,26 @@ I'm a **Full Stack Web Developer** with **2+ years of experience** in MEAN and M
 ## 📞 Let's Connect!
 
 <div align="center">
-  <a href="your_fiverr_link" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/fiverr-1.svg" alt="Hire me on Fiverr" title="Hire me on Fiverr" width="40" height="40" style="margin-right: 10px;"></a>
-  <a href="your_instagram_link" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Instagram_logo_2022.svg" alt="Follow me on Instagram" title="Follow me on Instagram" width="40" height="40" style="margin-right: 10px;"></a>
-  <a href="your_whatsapp_link" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" alt="Contact me on WhatsApp" title="Contact me on WhatsApp" width="40" height="40" style="margin-right: 10px;"></a>
+  <a href="https://www.linkedin.com/in/afridi676/" target="_blank"
+    ><img
+      src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png"
+      alt="Connect with me on LinkedIn"
+      title="Connect with me on LinkedIn"
+      width="40"
+      height="40"
+      style="margin-right: 10px"
+  /></a>
+  <a href="https://wa.me/+923155608395" target="_blank"
+    ><img
+      src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg"
+      alt="Contact me on WhatsApp"
+      title="Contact me on WhatsApp"
+      width="40"
+      height="40"
+      style="margin-right: 10px"
+  /></a>
 </div>
+
 
 <div align="center">
   <h2>Let's Build Something Amazing Together!</h2>
