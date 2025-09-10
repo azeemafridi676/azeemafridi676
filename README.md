@@ -1,74 +1,72 @@
 <div align="center">
-  <img src="./assets/banner.gif" alt="Azeem Afridi - Full Stack Web Developer" title="Azeem Afridi - Full Stack Web Developer" no-controls width="100%">
+  <img src="./assets/banner.gif" alt="Azeem Afridi - Software Engineer" title="Azeem Afridi - Software Engineer" no-controls width="100%">
 </div>
 
 <div align="center">
   <h1 style="display: flex; align-items: center; justify-content: center;">
-    <img src="./assets/logo.png" alt="Azeem Afridi" title="Azeem Afridi - Full Stack Web Developer" width="50" height="50" style="border-radius: 50%; margin-right: 10px;">
+    <img src="./assets/logo.png" alt="Azeem Afridi" title="Azeem Afridi - Software Engineer" width="50" height="50" style="border-radius: 50%; margin-right: 10px;">
     Azeem Afridi
   </h1>
-  <h3>Full Stack Web Developer | API Integration Specialist</h3>
-  <p>"Transforming your ideas into exceptional web solutions"</p>
+  <h3>Software Engineer</h3>
+  <p>
+    <a href="mailto:azeemafridi676@gmail.com">azeemafridi676@gmail.com</a> ·
+    <a href="https://www.linkedin.com/in/afridi676/" target="_blank">LinkedIn</a> ·
+    <a href="https://github.com/azeemafridi676" target="_blank">GitHub</a> ·
+    <span>+92 315 5608395</span>
+  </p>
 </div>
 
-## 👋 Welcome to my profile!
+## 🧭 About Me
 
-I'm a **Full Stack Web Developer** with **2+ years of experience** in MEAN and MERN stacks, and a **master in Node.js and Laravel**. Specializing in creating high-performance websites and seamless API integrations, I'm here to turn your vision into reality.
+Software Engineer with 1.5+ years experience delivering web, desktop, and AI‑powered applications under tight deadlines. Strong expertise in Electron, TypeScript, React, and Angular for production‑grade desktop apps. Experienced with Docker, AWS, and CI/CD pipelines. Applied AI/ML experience includes deploying Whisper, DistilBERT, and Nvidia Parakeet for real‑time audio transcription and scoring. Skilled at architecting distributed systems, optimizing performance to sub‑second latency, and independently delivering complex, first‑of‑its‑kind solutions.
 
-## 🚀 Skills
+## 💼 Work Experience
 
-<div align="center">
-  <!-- Frontend -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" title="HTML5" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" title="CSS3" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" title="JavaScript" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" title="TypeScript" width="40" height="40"/>
-  
-  <!-- Backend -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" title="Node.js" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" title="PHP" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" alt="Laravel" title="Laravel" width="40" height="40"/>
-  
-  <!-- Frameworks -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" alt="Angular" title="Angular" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" title="React" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" title="Bootstrap" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" title="Tailwind CSS" width="40" height="40"/>
-  
-  <!-- Databases -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" title="MongoDB" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" title="MySQL" width="40" height="40"/>
-  
-  <!-- Tools -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" title="Visual Studio Code" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" title="Figma" width="40" height="40"/>
-</div>
+### Software Engineer · Steltinsight · Islamabad · Dec 2023 – Present
+- Built HaulAdz, a distributed ad‑tech platform spanning Electron desktop app, Node.js backend, and Angular/React web apps.
+- Designed and delivered the Electron desktop app from scratch, including:
+  - Authentication (Google OAuth, OTP, password reset)
+  - Real‑time device location integration with Traccar
+  - External screen sync with IPC for public ad playback
+  - Dynamic ad scheduling, download management, retries, and robust error handling
+  - Sub‑100ms updates to playback queue using WebSockets
+- Configured Dockerized deployments on AWS EC2 with GitHub Actions CI/CD pipelines.
+- Researched, trained, and deployed ML models (Whisper, DistilBERT, Nvidia Parakeet) into production APIs, cutting inference from minutes to milliseconds.
+- Reduced developer workload from 16 hours to 2 hours by introducing AI‑powered developer workflows.
+- Conducted end‑to‑end delivery, mentoring juniors, and aligning client requirements with fast releases.
 
-## 💼 Portfolio Highlights
+### Backend Developer · Steltinsight · Islamabad · Jul 2024 – Sep 2024
+- Built and scaled REST APIs with Node.js, Express, and NestJS.
+- Integrated real‑time transcription and scoring into backend services.
+- Managed PostgreSQL, MySQL, and MongoDB with query‑performance optimizations.
+- Automated data extraction with Puppeteer for external integrations.
 
-### 🔥 Flashh – Restaurant Management SaaS Platform
+### Frontend Developer · Steltinsight · Islamabad · Apr 2024 – Jun 2024
+- Delivered Angular and Next.js applications with TypeScript, optimized for responsiveness.
+- Integrated secure API authentication (OAuth2, JWT, RBAC).
 
-**Flashh** is a powerful SaaS platform built for restaurant and franchise owners to manage online operations seamlessly.
+### Intern · Steltinsight · Islamabad · Dec 2023 – Mar 2024
+- Assisted in Angular, Node.js, and PHP projects; learned modern JavaScript (ES6).
+- Supported debugging, Git workflows, and testing.
 
-Key Features:
-- 🔗 Deep integration with **UberEats** and **DoorDash**
-- 📦 Centralized menu, store, and order management
-- 📬 Real-time delivery tracking via DoorDash with automated email updates
-- 🛍️ Stripe integration for seamless payment with delivery/pickup options
-- 🚀 One-click menu publishing to UberEats
-- 👨‍💼 Onboarding wizard with guided integration steps
-- 🧠 Built-in AI Website Builder:
-  - Choose content manually or fetch from any restaurant URL
-  - Auto-generate fully-editable, live eCommerce websites with POS functionality
+## 🎓 Education
+- Bachelor of Science, Software Engineering — Quaid‑e‑Azam University, Islamabad · 2025  
+  Coursework: Machine Learning, Artificial Intelligence, Data Mining, Probability & Statistics, Algorithms, Databases
+- Undergraduate, Islamabad Model Postgraduate College of Commerce, Islamabad · 2020
 
-**Tech Stack:** HTML, CSS, TypeScript, Angular, Next.js, Node.js, MongoDB, Socket.IO, Redis, OpenAI, Puppeteer
+## 🛠️ Skills
 
-🔗 **Project Portfolio:** Coming soon (within 2 days)  
-🎥 **Project Demo Video:** Coming soon (within 2 days)
+- React, Angular, Next.js, TypeScript
+- Electron, IPC, real‑time display sync
+- Node.js, Express, REST APIs
+- Docker, AWS EC2
+- GitHub Actions CI/CD
+- Whisper, Nvidia Parakeet, Applied NLP/ASR
+- PostgreSQL, MySQL, MongoDB
+- Performance optimization, Distributed systems
+- Problem solving, Startup execution
 
----
-
-## 📞 Let's Connect!
+## 🔗 Links
 
 <div align="center">
   <a href="https://www.linkedin.com/in/afridi676/" target="_blank"
@@ -76,6 +74,15 @@ Key Features:
       src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png"
       alt="Connect with me on LinkedIn"
       title="Connect with me on LinkedIn"
+      width="40"
+      height="40"
+      style="margin-right: 10px"
+  /></a>
+  <a href="https://github.com/azeemafridi676" target="_blank"
+    ><img
+      src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png"
+      alt="Visit my GitHub"
+      title="Visit my GitHub"
       width="40"
       height="40"
       style="margin-right: 10px"
@@ -90,3 +97,7 @@ Key Features:
       style="margin-right: 10px"
   /></a>
 </div>
+
+## 🌐 Language
+
+- English (Superior/Native)
