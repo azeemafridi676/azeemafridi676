@@ -20,6 +20,20 @@
 
 Software Engineer with 1.5+ years experience delivering web, desktop, and AI‑powered applications under tight deadlines. Strong expertise in Electron, TypeScript, React, and Angular for production‑grade desktop apps. Experienced with Docker, AWS, and CI/CD pipelines. Applied AI/ML experience includes deploying Whisper, DistilBERT, and Nvidia Parakeet for real‑time audio transcription and scoring. Skilled at architecting distributed systems, optimizing performance to sub‑second latency, and independently delivering complex, first‑of‑its‑kind solutions.
 
+## 🧩 Projects
+
+### HaulAdz (ads)
+Full-stack, real-time ad engine blending Angular, Node.js, and Electron to manage geo-targeted campaign delivery across web and desktop. Integrates Stripe billing, AWS S3 media storage, Traccar location tracking, Socket.IO for live sync, and JWT-based auth. Designed for secure, instantly updated media playback across environments.  
+[GitHub](https://github.com/azeemafridi676/ads)
+
+### Dealer Pro
+Enterprise-grade car dealership platform: Angular frontend + Node.js/Express backend with MongoDB, offering inventory, customer, invoicing, analytics, and RBAC dashboards. Supports mobile payments, multi-location operations, modular architecture, and real-time updates via Socket.IO. Scalable, secure, maintainable system for dealer CRM.  
+[GitHub](https://github.com/azeemafridi676/dealer-pro)
+
+### HSS
+Laravel-based school management system with role-based access (Super Admin, Admin, Teacher, Student). Features public landing, admission portal, modular admin panel, attendance tracking, exams/results, secure auth (Laravel Sanctum), and RBAC via Spatie. Built for scalability, automation, data security, and institutional workflows.  
+[GitHub](https://github.com/azeemafridi676/hss)
+
 ## 💼 Work Experience
 
 ### Software Engineer · Steltinsight · Islamabad · Dec 2023 – Present
