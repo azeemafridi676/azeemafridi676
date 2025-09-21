@@ -36,7 +36,7 @@ Laravel-based school management system with role-based access (Super Admin, Admi
 
 ## 💼 Work Experience
 
-### Software Engineer · Steltinsight · Islamabad · Dec 2023 – Present
+### Software Engineer · SterlingsTech · Islamabad · Dec 2023 – Present
 - Built HaulAdz, a distributed ad‑tech platform spanning Electron desktop app, Node.js backend, and Angular/React web apps.
 - Designed and delivered the Electron desktop app from scratch, including:
   - Authentication (Google OAuth, OTP, password reset)
@@ -49,17 +49,17 @@ Laravel-based school management system with role-based access (Super Admin, Admi
 - Reduced developer workload from 16 hours to 2 hours by introducing AI‑powered developer workflows.
 - Conducted end‑to‑end delivery, mentoring juniors, and aligning client requirements with fast releases.
 
-### Backend Developer · Steltinsight · Islamabad · Jul 2024 – Sep 2024
+### Backend Developer · SterlingsTech · Islamabad · Jul 2024 – Sep 2024
 - Built and scaled REST APIs with Node.js, Express, and NestJS.
 - Integrated real‑time transcription and scoring into backend services.
 - Managed PostgreSQL, MySQL, and MongoDB with query‑performance optimizations.
 - Automated data extraction with Puppeteer for external integrations.
 
-### Frontend Developer · Steltinsight · Islamabad · Apr 2024 – Jun 2024
+### Frontend Developer · SterlingsTech · Islamabad · Apr 2024 – Jun 2024
 - Delivered Angular and Next.js applications with TypeScript, optimized for responsiveness.
 - Integrated secure API authentication (OAuth2, JWT, RBAC).
 
-### Intern · Steltinsight · Islamabad · Dec 2023 – Mar 2024
+### Intern · SterlingsTech · Islamabad · Dec 2023 – Mar 2024
 - Assisted in Angular, Node.js, and PHP projects; learned modern JavaScript (ES6).
 - Supported debugging, Git workflows, and testing.
 
